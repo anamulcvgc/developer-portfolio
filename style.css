@@ -32,3 +32,8 @@ section{
     background-repeat: no-repeat;
     margin-bottom: 150px;
 }
+.bg-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
